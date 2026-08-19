@@ -21,8 +21,12 @@ and comply with its applicable terms.
 
  Notebook : Purpose 
 
- 00_initial_trial.ipynb :  Initial feasibility trial 
- 01_prototype_baseline.ipynb : Baseline psychology-informed model 
- 02_prototype_improved.ipynb : Improved preprocessing and evaluation 
- 03_prototype_ground_truth_validation.ipynb : Ground-truth extraction and validation 
- 04_final_prototype.ipynb : Final capstone implementation 
+ Psychology_Informed_Anomaly_Detection_Trial(1).ipynb :  Initial feasibility trial 
+ 
+ Final_Prototype_1_Improved_Psychology_Informed_Insider_Threat_Detection(1).ipynb : Baseline psychology-informed model
+ 
+ Final_Prototype_2_Improved_Psychology_Informed_Insider_Threat_Detection(1).ipynb : Improved preprocessing and evaluation 
+ 
+ Final_Prototype_3_Improved_Psychology_Informed_Insider_Threat_Detection(1).ipynb : Ground-truth extraction and validation 
+
+ Final_Protoype_4_Insider_Threat_Detection(1).ipynb : Final capstone implementation 
