@@ -19,7 +19,7 @@ and comply with its applicable terms.
 
 ## Prototype progression
 
-| Notebook | Purpose |
+ Notebook : Purpose 
 
  00_initial_trial.ipynb :  Initial feasibility trial 
  01_prototype_baseline.ipynb : Baseline psychology-informed model 
